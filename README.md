@@ -14,11 +14,17 @@ class Bio extends SoftwareDeveloper {
 
 class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'PHP', 'Node.js'];
-  databases  = ['MySQL', 'MongoDB',];
+  databases  = ['MySQL', 'MongoDB'];
   frameworks = ['React', 'Codeigniter', 'Express.js'];
 }
 ```
+<h2 align="center">You can reach me from linkedin :alien:</h2>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/hasankilicc/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Hasan Kılıç linkedin profile" height="30" width="30">
+  </a>
+</p>
 ⭐️ From [hasansword](https://github.com/hasansword)
 <!--
 **hasansword/hasansword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
