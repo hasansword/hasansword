@@ -1,5 +1,25 @@
-### Hi there 👋
+<p align="center">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+</p>
 
+```js
+import SoftwareDeveloper from 'thompsonemerson';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Hasan Kılıç';
+  title    = 'Industrial Engineer & Software Developer';
+  company  = '4kyazilim.com | Remote';
+  location = 'Istanbul, Turkey';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'PHP', 'Node.js'];
+  databases  = ['MySQL', 'MongoDB',];
+  frameworks = ['React', 'Codeigniter', 'Express.js'];
+}
+```
+
+⭐️ From [hasansword](https://github.com/hasansword)
 <!--
 **hasansword/hasansword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
