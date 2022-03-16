@@ -25,7 +25,6 @@ class Skills extends SoftwareDeveloper {
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Hasan Kılıç linkedin profile" height="30" width="30">
   </a>
 </p>
-⭐️ From [hasansword](https://github.com/hasansword)
 <!--
 **hasansword/hasansword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
