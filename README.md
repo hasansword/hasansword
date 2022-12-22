@@ -13,7 +13,7 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP', 'Node.js'];
+  languages  = ['JavaScript', 'PHP', 'Node.js', 'Learning Solidity'];
   databases  = ['MySQL', 'MongoDB'];
   frameworks = ['React', 'Codeigniter', 'Express.js'];
 }
