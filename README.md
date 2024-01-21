@@ -13,9 +13,9 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP', 'Node.js', 'Learning Solidity'];
+  languages  = ['JavaScript', 'Python', 'Node.js', 'Learning Solidity'];
   databases  = ['MySQL', 'MongoDB'];
-  frameworks = ['React', 'Codeigniter', 'Express.js'];
+  frameworks = ['React', 'Flask', 'Express.js'];
 }
 ```
 <h2 align="center">You can reach me from linkedin :alien:</h2>
