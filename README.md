@@ -7,8 +7,8 @@ import Developer from 'World';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Hasan Kılıç';
-  title    = 'Industrial Engineer & Software Developer';
-  company  = 'Student until 2023 | Working Remote';
+  title    = 'CBDO of VestraDAO';
+  company  = 'VestraDAO';
   location = 'Istanbul, Turkey';
 }
 
